@@ -1,0 +1,29 @@
+{
+  "background_color": "#ffffff",
+  "description": "Esse é um app para recomendação de bandas",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "bandasderock.netlify",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "bandasderock.netlify",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "music"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "assets/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Rockbands",
+      "url": "",
+      "description": ""
+    }
+  ]
+}
