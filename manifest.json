@@ -19,6 +19,66 @@
       "type": "image/x-icon"
     }
   ],
+  {
+    "src": "assets/img/portfolio/1",
+    "sizes": "4104x2736",
+    "type": "image/png"
+  },
+  {
+    "src": "assets/img/portfolio/2",
+    "sizes": "676x450",
+    "type": "image/png"
+  },
+  {
+    "src": "assets/img/portfolio/3",
+    "sizes": "696x464",
+    "type": "image/png"
+  },
+  {
+    "src": "assets/img/portfolio/4",
+    "sizes": "696x464",
+    "type": "image/png"
+  },
+  {"src": "assets/img/portfolio/5",
+  "sizes": "700x467",
+  "type": "image/png"
+},
+{
+  "src": "assets/img/portfolio/6",
+    "sizes": "500x334",
+    "type": "image/png"
+},
+{
+  "src": "assets/img/logos/1280px-Deezer_logo.svg",
+  "sizes": "1280x244",
+  "type": "image/png"
+},
+{
+  "src": "assets/img/logos/Google_2015_logo.svg",
+  "sizes": "1280x433",
+  "type": "image/png"
+},
+{
+  "src": "assets/img/logos/Spotify_logo_with_text.svg",
+  "sizes": "1024x308",
+  "type": "image/png"
+},
+{
+  "src": "assets/img/logos/youtube-logo-0",
+  "sizes": "1440x321",
+  "type": "image/png"
+},
+{
+  "src": "assets/img/logos/youtube-logo-0",
+  "sizes": "1440x321",
+  "type": "image/png"
+},
+{
+  "src": "assets/img/2222735",
+  "sizes": "3840x2400",
+  "type": "image/webp"
+},
+
   "shortcuts": [
     {
       "name": "Rockbands",
