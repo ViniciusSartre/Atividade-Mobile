@@ -76,6 +76,186 @@
   "src": "assets/img/2222735",
   "sizes": "3840x2400",
   "type": "image/webp"
+},
+{
+  "src": "assets/appstore",
+  "sizes": "1024x1024",
+  "type": "image/png"
+},
+{
+  "src": "assets/playstore",
+  "sizes": "512x512",
+  "type": "image/png"
+},
+{
+  "src": "assets/16",
+  "sizes": "16x16",
+  "type": "image/png"
+},
+{
+  "src": "assets/20",
+  "sizes": "20x20",
+  "type": "image/png"
+},
+{
+  "src": "assets/29",
+  "sizes": "29x29",
+  "type": "image/png"
+},
+{
+  "src": "assets/32",
+  "sizes": "32x32",
+  "type": "image/png"
+},
+{
+  "src": "assets/40",
+  "sizes": "40x40",
+  "type": "image/png"
+},
+{
+  "src": "assets/48",
+  "sizes": "48x48",
+  "type": "image/png"
+},
+{
+  "src": "assets/50",
+  "sizes": "50x50",
+  "type": "image/png"
+},
+{
+  "src": "assets/55",
+  "sizes": "55x55",
+  "type": "image/png"
+},
+{
+  "src": "assets/57",
+  "sizes": "57x57",
+  "type": "image/png"
+},
+{
+  "src": "assets/58",
+  "sizes": "58x58",
+  "type": "image/png"
+},
+{
+  "src": "assets/60",
+  "sizes": "60x60",
+  "type": "image/png"
+},
+{
+  "src": "assets/64",
+  "sizes": "64x64",
+  "type": "image/png"
+},
+{
+  "src": "assets/66",
+  "sizes": "66x66",
+  "type": "image/png"
+},
+{
+  "src": "assets/72",
+  "sizes": "72x72",
+  "type": "image/png"
+},
+{
+  "src": "assets/76",
+  "sizes": "76x76",
+  "type": "image/png"
+},
+{
+  "src": "assets/80",
+  "sizes": "80x80",
+  "type": "image/png"
+},
+{
+  "src": "assets/87",
+  "sizes": "87x87",
+  "type": "image/png"
+},
+{
+  "src": "assets/88",
+  "sizes": "88x88",
+  "type": "image/png"
+},
+{
+  "src": "assets/92",
+  "sizes": "92x92",
+  "type": "image/png"
+},
+{
+  "src": "assets/100",
+  "sizes": "100x100",
+  "type": "image/png"
+},
+{
+  "src": "assets/102",
+  "sizes": "102x102",
+  "type": "image/png"
+},
+{
+  "src": "assets/114",
+  "sizes": "114x114",
+  "type": "image/png"
+},
+{
+  "src": "assets/120",
+  "sizes": "120x120",
+  "type": "image/png"
+},
+{
+  "src": "assets/128",
+  "sizes": "128x128",
+  "type": "image/png"
+},
+{
+  "src": "assets/144",
+  "sizes": "144x144",
+  "type": "image/png"
+},
+{
+  "src": "assets/152",
+  "sizes": "152x152",
+  "type": "image/png"
+},
+{
+  "src": "assets/167",
+  "sizes": "167x167",
+  "type": "image/png"
+},
+{
+  "src": "assets/172",
+  "sizes": "172x172",
+  "type": "image/png"
+},
+{
+  "src": "assets/180",
+  "sizes": "180x180",
+  "type": "image/png"
+},
+{
+  "src": "assets/196",
+  "sizes": "196x196",
+  "type": "image/png"
+},
+{
+  "src": "assets/216",
+  "sizes": "216x216",
+  "type": "image/png"
+},
+{
+  "src": "assets/256",
+  "sizes": "256x256",
+  "type": "image/png"
+},
+{
+  "src": "assets/512",
+  "sizes": "512x512",
+  "type": "image/png"
+},
+{
+  "src": "assets/1024",
+  "sizes": "1024x1024",
+  "type": "image/png"
 }
 ],
 
