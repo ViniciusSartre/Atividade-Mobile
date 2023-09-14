@@ -14,7 +14,6 @@ self.addEventListener('install', event => {
 
         './js/scripts.js',
 
-        
       ]))
   );
 });
